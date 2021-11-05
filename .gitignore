@@ -1,12 +1,1 @@
-**/__pycache__/**
-
-# file
-*.env
-*.pyc
-*.log
-*.session
-
-bot/downloads
-downloads
-.cache
-.vscode
+.divio
